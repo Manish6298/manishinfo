@@ -1,4 +1,4 @@
-# manishinfo
+
 Welcome to my profile...
 
 <h1 align="center">Hi 👋, I'm Manish Srivastava</h1>
