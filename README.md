@@ -13,14 +13,13 @@ Welcome to my profile...
 # 💫 About Me:
 
 - 🔭 I’m looking ****collaborate on Good Tech Skills****
--  🌱 Interested in ****backend technologies....****
+- 🌱 Interested in ****backend technologies....****
 - 🌱 I’m currently learning  ****AWS Cloud Services****
 
-- 👨‍💻 Checkout my portfolio https://rakesh7063.github.io
 
 - 💬 Ask me about ***Java, Spring Boot, Microservices, MySQL***
 
-- 📫 How to reach me **rakeshkandar2021@gmail.com**
+- 📫 How to reach me **manish.sri9559@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1B0i8pgRGsDGak4h9rWPEXWm_VLm9uEoy/view?usp=drive_link)
 
